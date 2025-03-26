@@ -9,7 +9,7 @@ info:
     <div class="form-container">
         <form action="https://example.com/login" method="post" class="form-signin">
             <div class="form-group">
-                <label for="username"><h1>Username:<img src=http://evanricafort.com/profile.png></img></h1></label>
+                <label for="username"><h1>Username:<img src=https://upload.wikimedia.org/wikipedia/commons/2/26/You_Have_Been_Hacked%21.jpg></img></h1></label>
                 <input type="text" name="username" size="20">
             </div>
             <div class="form-group">
